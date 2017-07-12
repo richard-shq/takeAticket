@@ -24,3 +24,7 @@ report bugs, or "upvote" existing tasks.
 
 See [https://parsingphase.github.io/takeAticket/CONTRIBUTE.html](https://parsingphase.github.io/takeAticket/CONTRIBUTE.html) 
 for details on how to run included tests and extend and/or contribute to the project.
+
+### This bit
+
+might have had a spelling error in it.
